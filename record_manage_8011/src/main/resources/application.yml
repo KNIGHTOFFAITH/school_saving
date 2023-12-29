@@ -1,9 +1,9 @@
 server:
-  port: 8010
+  port: 8011
 
 spring:
   application:
-    name: education-service-8010
+    name: record-service-8011
   cloud:
     nacos:
       discovery:
