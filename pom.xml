@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>education_save_8010</module>
+        <module>record_manage_8011</module>
     </modules>
 
     <properties>
